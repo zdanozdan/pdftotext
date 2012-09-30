@@ -1,4 +1,6 @@
-Usage: pdftotext [options] <PDF-file> [<text-file>]
+Usage: 
+       pdftotext [options] <PDF-file> [<text-file>]
+
        -zdanozdan <int>   : zdanozdan
        -f <int>           : first page to convert
        -l <int>           : last page to convert
